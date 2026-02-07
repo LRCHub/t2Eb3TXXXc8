@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "blossom",
+  "base_artist": "ClariS",
+  "createdAt": "2026-02-07T07:02:32.266769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Orange Blossom Special",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_Orange_Blossom_Special_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orange Blossom Special",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/02_Orange_Blossom_Special_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orange Blossom Special (Live Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/03_Orange_Blossom_Special_(Live_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "cherry blossom",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/04_cherry_blossom_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blossom Quarter",
+      "artist": "LONE",
+      "has_synced": false,
+      "path": "select/05_Blossom_Quarter_LONE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blossom",
+      "artist": "Nick Drake",
+      "has_synced": true,
+      "path": "select/06_Blossom_Nick_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherry Blossom",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Cherry_Blossom_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry Blossom Girl",
+      "artist": "Air",
+      "has_synced": true,
+      "path": "select/08_Cherry_Blossom_Girl_Air.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherry blossom girl - Hope Sandoval version",
+      "artist": "AIR",
+      "has_synced": true,
+      "path": "select/09_Cherry_blossom_girl_-_Hope_Sandoval_version_AIR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherry Blossom Girl - Radio Mix",
+      "artist": "AIR",
+      "has_synced": false,
+      "path": "select/10_Cherry_Blossom_Girl_-_Radio_Mix_AIR.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cherry Blossom Girl (Radio Mix)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/11_Cherry_Blossom_Girl_(Radio_Mix)_Air.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cherry Blossom Girl - Simian Mobile Disco mix",
+      "artist": "AIR",
+      "has_synced": false,
+      "path": "select/12_Cherry_Blossom_Girl_-_Simian_Mobile_Disco_mix_AIR.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherry Blossom Girl (Simian Mobile Disco Mix)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/13_Cherry_Blossom_Girl_(Simian_Mobile_Disco_Mix)_Air.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Apple Blossom",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/14_Apple_Blossom_The_White_Stripes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "blossom",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_blossom_ClariS.txt"
+    }
+  ]
+}
